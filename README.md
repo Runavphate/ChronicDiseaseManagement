@@ -48,7 +48,8 @@ Our vision is to revolutionize chronic disease management through blockchain tec
 
 **Network**: Aptos Mainnet/Testnet  
 **Module**: `MyModule::ChronicDiseaseManagement`  
-**Contract Address**: `[To be deployed - address will be updated upon deployment]`
+
+<img width="1918" height="1013" alt="Screenshot 2025-08-22 114452" src="https://github.com/user-attachments/assets/a781322e-8e17-4876-9b64-87c4e24a2a95" />
 
 ---
 
